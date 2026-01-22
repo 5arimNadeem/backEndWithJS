@@ -1,0 +1,13 @@
+header's 
+
+letter 
+inside is = actual data 
+
+letter ka outside : from : ipaddress, to : macAddress , content : JSON
+
+:)
+
+https  headers are the meta data of the actual data 
+
+inspect mai jaa kar network tab mai jaoo nad tenn see the headers section 
+

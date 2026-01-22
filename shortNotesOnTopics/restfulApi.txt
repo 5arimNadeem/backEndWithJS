@@ -1,0 +1,32 @@
+RestFul api's 
+
+restFul apis are the set of standards that are applied when the request from the server is send and the responce is received 
+on the other side then some rules are used for the data to be showed via api and that is used via restful api's 
+
+1. server client architecture 
+2. always respect all hettp methods 
+	get , post , put, patch , delete 
+		get /user -> users data read kro and return data 
+		post / user -> handle new user creation 
+		patch /user -> update the user 
+	
+	joo cheez jis kaa liya hai uss koo uss liya use karoo 
+		post /updateUser -> user update 
+		post /createUser -> create 
+		get /getUser -> 
+
+80% of the people apna poora server get and post par bana daitay hain which is a really bad practise 
+	--one of the good enginners of all time saying it 
+
+
+mthods kkii respect karni hai and we are going to assign them the tasks that are needed to do it 
+
+CSR : client side rendering 
+	data fetch hoo kar phir show hota hai and it take smore time 
+		react iss par operate karta hai
+			json data etc  
+SSR : server side rendering 
+	direct data aa jata hai 
+		html format etc 
+
+N

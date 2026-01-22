@@ -1,0 +1,12 @@
+request responce cycle 
+
+but middle ware : 
+
+client requirest - > middleware -> 
+		1. middleware can chekc the request and if there is any problme in it or it feels the problem it is going to return the request back and same goes for the responce as well.
+
+there can be multiple middlewares too. 
+
+it is a sort of plugin and it is like the middle man of the request nd responce that you client is sending and the server is sending in the form of request and responce 
+
+

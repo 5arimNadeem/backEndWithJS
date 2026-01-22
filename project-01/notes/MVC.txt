@@ -1,0 +1,7 @@
+model view controller 
+
+controller -> model -> view 
+
+conterller model koo tang karay gaa orr model view koo tang karay gaa. 
+
+they are going to manipulate each other 
